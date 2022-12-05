@@ -1,0 +1,5 @@
+.logo {
+  font-family: Raleway, cursive;
+  @include font(700, 26px, 1.19, null);
+  text-decoration: none;
+}
